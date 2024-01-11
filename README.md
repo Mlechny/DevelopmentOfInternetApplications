@@ -2,25 +2,25 @@
 ### Проверка кода студентов
 
 ## Бэкенд (основной сервис)
-- [Посмотреть ветку разработки](https://github.com/Mlechny/DevelopmentOfInternetApplications_backend/tree/SSR)
-- [Посмотреть ветку разработки](https://github.com/Mlechny/DevelopmentOfInternetApplications_backend/tree/DB)
-- [Посмотреть ветку разработки](https://github.com/Mlechny/DevelopmentOfInternetApplications_backend/tree/Web-service)
-- [Посмотреть ветку разработки](https://github.com/Mlechny/DevelopmentOfInternetApplications_backend/tree/authorization)
-- [Посмотреть ветку разработки](https://github.com/Mlechny/DevelopmentOfInternetApplications_backend/tree/Async-service)
+- [SSR (Лабораторная работа 1)](https://github.com/Mlechny/DevelopmentOfInternetApplications_backend/tree/SSR)
+- [Database (Лабораторная работа 2)](https://github.com/Mlechny/DevelopmentOfInternetApplications_backend/tree/DB)
+- [Web-service (Лабораторная работа 3)](https://github.com/Mlechny/DevelopmentOfInternetApplications_backend/tree/Web-service)
+- [Аутентификация и авторизация (Лабораторная работа 5)](https://github.com/Mlechny/DevelopmentOfInternetApplications_backend/tree/authorization)
+- [Взаимодействие с асинхронным сервисом (Лабораторная работа 5+8)](https://github.com/Mlechny/DevelopmentOfInternetApplications_backend/tree/Async-service)
 
 ## Фронтенд
-- [Посмотреть ветку разработки](https://github.com/Mlechny/DevelopmentOfInternetApplications_frontend/tree/SPA)
-- [Посмотреть ветку разработки](https://github.com/Mlechny/DevelopmentOfInternetApplications_frontend/tree/gh-pages)
-- [Посмотреть ветку разработки](https://github.com/Mlechny/DevelopmentOfInternetApplications_frontend/tree/Redux)
+- [SPA (Лабораторная работа 4)](https://github.com/Mlechny/DevelopmentOfInternetApplications_frontend/tree/SPA)
+- [Github-Pages](https://github.com/Mlechny/DevelopmentOfInternetApplications_frontend/tree/gh-pages)
+- [Redux (Лабораторная работа 6)](https://github.com/Mlechny/DevelopmentOfInternetApplications_frontend/tree/Redux)
 
 ## Мобильное IOS-приложение
-- [Посмотреть ветку разработки](https://github.com/Mlechny/CodesSubmissionApplication/tree/application)
+- [SwiftUI (Лабораторная работа 7)](https://github.com/Mlechny/CodesSubmissionApplication/tree/application)
 
 ## Внешний асинхронный сервис (автотестирование кода)
-- [Посмотреть ветку разработки](https://github.com/Mlechny/DevelopmentOfInternetApplications_AsyncService/tree/async_service)
+- [Асинхронный сервис (Лабораторная работа 8)](https://github.com/Mlechny/DevelopmentOfInternetApplications_AsyncService/tree/async_service)
 
 ## Домашнее задание
-'-' [Посмотреть ветку разработки](https://github.com/Mlechny/DevelopmentOfInternetApplications_frontend/tree/Moderator-pages)
-[Посмотреть ветку разработки](https://github.com/example-user/example-repo/tree/dev)
+- [Интерфейс модератора](https://github.com/Mlechny/DevelopmentOfInternetApplications_frontend/tree/Moderator-pages)
+- [РПЗ](https://github.com/example-user/example-repo/tree/dev)
 
 ## UML-диграммы (отдельно)
