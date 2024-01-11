@@ -23,4 +23,4 @@
 - [Интерфейс модератора](https://github.com/Mlechny/DevelopmentOfInternetApplications_frontend/tree/Moderator-pages)
 - [РПЗ](https://github.com/example-user/example-repo/tree/dev)
 
-## UML-диграммы (отдельно)
+## UML-диграммы (отдельно), в разработке...
