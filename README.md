@@ -21,6 +21,6 @@
 
 ## Домашнее задание
 - [Интерфейс модератора](https://github.com/Mlechny/DevelopmentOfInternetApplications_frontend/tree/Moderator-pages)
-- [РПЗ](https://github.com/example-user/example-repo/tree/dev)
+- [РПЗ](https://github.com/Mlechny/DevelopmentOfInternetApplications/blob/main/РПЗ%20Цуприков%20ИУ5-53Б.docx)
 
 ## UML-диграммы (отдельно), в разработке...
