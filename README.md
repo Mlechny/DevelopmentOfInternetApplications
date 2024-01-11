@@ -2,7 +2,7 @@
 ### Проверка кода студентов
 
 ## Бэкенд (основной сервис)
-'-' [Посмотреть ветку разработки](https://github.com/Mlechny/DevelopmentOfInternetApplications_backend/tree/SSR)
+- [Посмотреть ветку разработки](https://github.com/Mlechny/DevelopmentOfInternetApplications_backend/tree/SSR)
 '-' [Посмотреть ветку разработки](https://github.com/Mlechny/DevelopmentOfInternetApplications_backend/tree/DB)
 '-' [Посмотреть ветку разработки](https://github.com/Mlechny/DevelopmentOfInternetApplications_backend/tree/Web-service)
 '-' [Посмотреть ветку разработки](https://github.com/Mlechny/DevelopmentOfInternetApplications_backend/tree/authorization)
